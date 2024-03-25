@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoBack:jar">
+    <output-path>$PROJECT_DIR$/../../1.20.4 Survival 481/plugins</output-path>
+    <root id="archive" name="GoBack.jar">
+      <element id="module-output" name="GoBack" />
+    </root>
+  </artifact>
+</component>

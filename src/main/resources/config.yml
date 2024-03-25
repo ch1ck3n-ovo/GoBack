@@ -1,0 +1,20 @@
+# Colors:
+#   BLACK = &0, DARK_BLUE = &1, DARK_GREEN = &2, DARK_AQUA = &3
+#   DARK_RED = &4, DARK_PURPLE = &5, GOLD = &6, GRAY = &7
+#   DARK_GRAY = &8, BLUE = &9, GREEN = &a, AQUA = &b
+#   RED = &c, LIGHT_PURPLE = &d, YELLOW = &e, WHITE = &f
+
+# Formats:
+#   OBFUSCATED = &k, BOLD = &l, STRIKETHROUGH = &m,
+#   UNDERLINE = &n, ITALIC = &o, RESET = &r
+message:
+  already-teleported: "&cYou already used the /back command!"
+  can-execute-command: "&aYou can use /back to teleport back to your last death location now!"
+  execute-in-console: "&cYou can't execute this command in console!"
+  no-command-permission: "&cYou don't have permission to do this!"
+  no-death-location-found: "&cYou have no death location in this server!"
+  player-teleport: "&aTeleport to your last death location!"
+  timed-out: "&cYour last death location invalid now!"
+
+setting:
+  keep-time: 60000
